@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-gabrielsanti
 - 👀 I’m interested in Front-end 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning JS.
 - 📫 How to reach me marcosgabrielss23@gmail.com
 
 <!---
