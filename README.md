@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @dev-gabrielsanti
-- 👀 I’m interested in Front-end 
-- 🌱 I’m currently learning JS.
+- 👋 Hi, I’m Gabriel Santiago
+- 💻 Computer Science 1st period at Unifor
+- 👀 I’m interested in Front-end development
+- 🌱 I’m currently learning JS, HTML, CSS
 - 📫 How to reach me marcosgabrielss23@gmail.com
 
 <!---
